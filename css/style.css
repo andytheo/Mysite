@@ -1,0 +1,61 @@
+#top {
+  text-align: center;
+color: white;
+padding: 2.5rem 0;
+background-image: url('../images/JOwYdN1-texture-background-wallpaper.jpg');
+
+}
+.brand {
+  font-size: 2rem;
+  font-weight: bolder;
+}
+.navigations {
+   margin-left: auto;
+   font-size: 1.4rem;
+}
+.greeting {
+  font-family: 'Lobster', cursive;
+  padding-top: 60px;
+  font-size: 6rem;
+}
+.title {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 1.5rem;
+}
+ #middle {
+  text-align: center;
+  background-color: #eff8ff;
+  padding: 10% 5%;
+}
+.middle-buttons {
+  margin-left: 25px;
+}
+.word {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: bolder;
+  color: #184d47;
+}
+.carousel-msg {
+  font-size: 3rem;
+  font-weight: bold;
+}
+#bottom {
+  text-align: center;
+  padding: 5% 10%;
+  background-color: #184d47;
+}
+.bottom-icons {
+  margin-left: 30px;
+  text-decoration: none;
+  color: #eff8ff;
+  padding-bottom: 20px;
+}
+.copy {
+  color: #eff8ff;
+}
+.work {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 3.5rem;
+}
