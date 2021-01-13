@@ -37,7 +37,7 @@ p {
 #facts {
 font-family: 'Alegreya Sans SC', sans-serif;
 background-color: #eff8ff;
-padding: 20px 60px;
+padding: 20px 20px;
 text-align: center;
 }
 .pics {
@@ -52,7 +52,7 @@ text-align: center;
   margin-right: auto;
 }
 .piano {
-padding: 0 50px 0 0;
+padding: 0 20px 0 0;
 }
 .copy {
   text-align: center;
